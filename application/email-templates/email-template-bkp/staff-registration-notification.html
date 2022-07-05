@@ -1,0 +1,55 @@
+<style>@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,900);
+
+</style>
+<div>
+  <table width="650" border="0" style="padding:20px; margin:0 auto; border:5px solid #369536; border-collapse: collapse;" cellspacing="5" cellpadding="5" template="Staff registration notification template">
+    <tbody>
+      <tr>
+        <td>
+          Dear {{name}},
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <p>We are very gald to inform you that "<strong>{{college}}</strong>" has added you as a Staff member to you. Your login details are availabe below.</p>
+       </td>
+      </tr>
+
+      <tr>
+        <td>
+          <p><strong>Login Url : </strong><a href="{{login_url}}">{{login_url}}</a></p>
+       </td>
+      </tr> 
+
+      <tr>
+        <td>
+          <p><strong>Email Id : </strong>{{email}}</p>
+       </td>
+      </tr> 
+
+      <tr>
+        <td>
+          <p><strong>Password : </strong>{{password}}</p>
+       </td>
+      </tr>       
+
+      <tr>
+        <td>     
+          <p><strong>Note :</strong> Its a auto-responder email. So, please don't reply on that email.</p>
+       </td>
+      </tr>
+
+      <tr>
+        <td>
+          {{signature}}          
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align:center;font-family:roboto;font-size:11px;padding:0px;">
+          {{disclaimer}}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

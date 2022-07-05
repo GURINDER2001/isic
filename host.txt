@@ -1,0 +1,199 @@
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName proeducationgroup.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName jobs.proeducationgroup.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName smarthub.proeducationgroup.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName studentshub.proeducationgroup.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findtechnicalschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchbusinessschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchgraduateschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchonlineschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchsciencecamp.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findlawschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchmbaschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findmedicalschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findvocationalschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchsummercamp.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchpreschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchelementary.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findbestuniversity.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName searchartschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findmusicschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName findhighschool.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName studyamerica.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName myamericanenglish.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName learndirect.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+
+<VirtualHost *:80>
+DocumentRoot "D:/xampp/htdocs/proeducationgroup"
+ServerName 247classroom.loc
+<Directory "D:/xampp/htdocs/proeducationgroup">
+</Directory>
+</VirtualHost>
+
+127.0.0.1 proeducationgroup.loc
+127.0.0.1 jobs.proeducationgroup.loc
+127.0.0.1 smarthub.proeducationgroup.loc
+127.0.0.1 studentshub.proeducationgroup.loc
+127.0.0.1 findtechnicalschool.loc 
+127.0.0.1 searchbusinessschool.loc
+127.0.0.1 searchgraduateschool.loc
+127.0.0.1 searchonlineschool.loc
+127.0.0.1 searchsciencecamp.loc
+127.0.0.1 findlawschool.loc
+127.0.0.1 searchmbaschool.loc
+127.0.0.1 findmedicalschool.loc
+127.0.0.1 findvocationalschool.loc
+127.0.0.1 searchsummercamp.loc
+127.0.0.1 searchpreschool.loc
+127.0.0.1 searchelementary.loc
+127.0.0.1 findbestuniversity.loc
+127.0.0.1 searchartschool.loc
+127.0.0.1 findmusicschool.loc
+127.0.0.1 findhighschool.loc
+127.0.0.1 studyamerica.loc
+127.0.0.1 myamericanenglish.loc
+127.0.0.1 learndirect.loc
+127.0.0.1 247classroom.loc
