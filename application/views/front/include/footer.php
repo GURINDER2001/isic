@@ -126,7 +126,7 @@
         </footer>
         <!-- End Footer Area -->
         
-        <div class="rfrFloat"><a href="<?=getSetting('referfriends_url'); ?>" class="popup2">Refer a Friend</a><!--a href="#refer" class="popup">Refer a Friend</a--></div>
+        <div class="rfrFloat"><a href="<?=base_url('refer-a-friend'); ?>" class="popup2">Refer a Friend</a><!--a href="#refer" class="popup">Refer a Friend</a--></div>
         <div id="refer" class="white-popup-block mfp-hide">
           <div class="popupBox">
            <h2>Refer a Friend</h2>
